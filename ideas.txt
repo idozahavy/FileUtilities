@@ -1,0 +1,22 @@
+take previous programs into it
+
+String compare - File Compare
+
+Copy By Order - "Copy Order Numeric"
+
+search and copy files by phrase - "copyphrasefiles"
+
+disk copy?
+
+last file preview?
+
+Tag changer
+Tag photo
+
+ReplaceNameFileStr
+
+change file name by metadata
+
+folder files comparsion
+
+
